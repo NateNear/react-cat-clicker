@@ -1,0 +1,25 @@
+.CatGallery{
+	margin-top:20px;
+	width:100%;
+	padding:20px;
+}
+
+.Padding{
+	margin-top:20px;
+	padding-top:20px;
+	border-top:2px solid #D3D3D3;
+	border-bottom:2px solid #D3D3D3;
+}
+
+.CatsImageGalleryText{
+	font-size:40px;
+	text-align:left;
+}
+
+.ItemsDisplay{
+	padding:20px;
+	display: flex;
+	flex-direction:row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}

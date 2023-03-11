@@ -1,0 +1,16 @@
+.CatList{
+  width:400px;
+  border:2px solid #D3D3D3;
+  border-radius: 4px;
+}
+
+.CatInfo{
+  display:flex;
+  flex-direction:column;
+  padding-left:20px;
+}
+
+.CatImage{
+  height:200px;
+  width:100%;
+}

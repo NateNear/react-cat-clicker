@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+
+header {
+  display: flex;
+  margin-left:20px;
+}
+
+
+.TitleText{
+  font-size: 40px;
+}
+
+.Panels{
+  display:flex;
+  justify-content:space-around;
+}
+
+
+
+
